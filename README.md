@@ -10,8 +10,9 @@
 6. [Running Instruction](#Running-Instruction)
 
 ## Overview
+* The old repo was deleted by the university. This is a copy and does not have the previous commit messages. 
 
-* Our final projet uses data from Youtube, in which each youtube video is a vertex, if one video is related to another, then there is a directed edge between them. 
+* Our final project uses data from Youtube, in which each youtube video is a vertex, if one video is related to another, then there is a directed edge between them. 
     
 * First off, we read in the data from the Youtube Dataset, construct a directed graph and an undirected graph based on the data. 
     
