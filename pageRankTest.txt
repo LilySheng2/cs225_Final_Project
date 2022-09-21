@@ -1,0 +1,5 @@
+Rank 0 A|| PageRank Score: 0.101843|| Category: Comedy|| Length: 339|| Views: 526|| Ratings: 8|| Rate: 2.25|| Comments: 3
+Rank 1 D|| PageRank Score: 0.0961651|| Category: Music|| Length: 259|| Views: 1618|| Ratings: 14|| Rate: 4.07|| Comments: 14
+Rank 2 B|| PageRank Score: 0.0586507|| Category: Film|| Length: 66|| Views: 1600|| Ratings: 11|| Rate: 4.09|| Comments: 11
+Rank 3 C|| PageRank Score: 0.0380145|| Category: Comedy|| Length: 112|| Views: 150|| Ratings: 4|| Rate: 5|| Comments: 3
+Rank 4 E|| PageRank Score: 0.01|| Category: Music|| Length: 231|| Views: 265|| Ratings: 2|| Rate: 5|| Comments: 2
